@@ -1,0 +1,12 @@
+D:\Interview\PyramidDemo\bin\Debug\net8.0\PyramidDemo.exe
+D:\Interview\PyramidDemo\bin\Debug\net8.0\PyramidDemo.deps.json
+D:\Interview\PyramidDemo\bin\Debug\net8.0\PyramidDemo.runtimeconfig.json
+D:\Interview\PyramidDemo\bin\Debug\net8.0\PyramidDemo.dll
+D:\Interview\PyramidDemo\bin\Debug\net8.0\PyramidDemo.pdb
+D:\Interview\PyramidDemo\obj\Debug\net8.0\PyramidDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\PyramidDemo\obj\Debug\net8.0\PyramidDemo.csproj.CoreCompileInputs.cache
+D:\Interview\PyramidDemo\obj\Debug\net8.0\PyramidDemo.dll
+D:\Interview\PyramidDemo\obj\Debug\net8.0\refint\PyramidDemo.dll
+D:\Interview\PyramidDemo\obj\Debug\net8.0\PyramidDemo.pdb
+D:\Interview\PyramidDemo\obj\Debug\net8.0\PyramidDemo.genruntimeconfig.cache
+D:\Interview\PyramidDemo\obj\Debug\net8.0\ref\PyramidDemo.dll

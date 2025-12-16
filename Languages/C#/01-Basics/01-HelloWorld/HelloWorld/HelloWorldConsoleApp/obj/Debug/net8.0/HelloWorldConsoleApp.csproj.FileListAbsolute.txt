@@ -1,0 +1,14 @@
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\bin\Debug\net8.0\HelloWorldConsoleApp.exe
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\bin\Debug\net8.0\HelloWorldConsoleApp.deps.json
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\bin\Debug\net8.0\HelloWorldConsoleApp.runtimeconfig.json
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\bin\Debug\net8.0\HelloWorldConsoleApp.dll
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\bin\Debug\net8.0\HelloWorldConsoleApp.pdb
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.AssemblyInfoInputs.cache
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.AssemblyInfo.cs
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.dll
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\refint\HelloWorldConsoleApp.dll
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.pdb
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\HelloWorldConsoleApp.genruntimeconfig.cache
+d:\Interview\C#\01-Basics\01-HelloWorld\HelloWorld\HelloWorldConsoleApp\obj\Debug\net8.0\ref\HelloWorldConsoleApp.dll

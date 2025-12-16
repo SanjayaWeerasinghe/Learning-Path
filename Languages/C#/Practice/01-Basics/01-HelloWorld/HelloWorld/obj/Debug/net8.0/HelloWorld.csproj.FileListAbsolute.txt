@@ -1,0 +1,14 @@
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Interview\C#\Practice\01-Basics\01-HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

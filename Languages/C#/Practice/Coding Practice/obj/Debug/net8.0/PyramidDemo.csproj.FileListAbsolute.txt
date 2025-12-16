@@ -1,0 +1,2 @@
+D:\Interview\obj\Debug\net8.0\PyramidDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\obj\Debug\net8.0\PyramidDemo.csproj.CoreCompileInputs.cache
